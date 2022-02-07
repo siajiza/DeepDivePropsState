@@ -74,7 +74,7 @@ export default class JournalList extends Component {
                   content="Every day some information for you here"
                 />
                 <h1>{this.state.specialInfo}</h1>
-                
+                {journalEntries}
                 
             </div>
 
